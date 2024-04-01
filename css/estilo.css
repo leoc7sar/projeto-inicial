@@ -75,7 +75,7 @@ button(
     color: white;
 )
 footer(
-    border-top: solid 2px
+    border-top: solid 2px red;
 )
 /* Exemplo de reset de estilos */
 /*{
