@@ -42,6 +42,38 @@
 
 /* input[type="text"] {color: red;} - Este seletor estiliza todos os inputs que possuem o atributo "type" com o valor "text". */
 
+head{
+    background-color: blue;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul li{
+    font-weight: bolder;
+}
+
+#container{
+    padding: 20px;
+}
+.conteudo{
+    line-height: 1.5;
+}
+form{
+    border: solid 1px gray;
+    padding: 10px;
+}
+p(
+    color: green;
+)
+button(
+    background-color: blue;
+    color: white;
+)
 /* Exemplo de reset de estilos */
 /*{
     margin: 0;
